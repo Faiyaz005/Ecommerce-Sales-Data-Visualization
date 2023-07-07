@@ -3,7 +3,7 @@
 
 **Project Details:**
 
-In this project I have **cleaned** Madhav Ecommerce sales data and represented the the data using **Power BI** dashboard answering questions such as:
+In this project I have **cleaned** Madhav Ecommerce sales data and represented the data using **Power BI** dashboard answering questions such as:
 
  1) What are the profits in each month?
  2) What are the payment methods and how are they divided between total sales?
