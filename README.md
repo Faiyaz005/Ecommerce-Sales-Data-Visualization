@@ -10,3 +10,4 @@ In this project I have **cleaned** Madhav Ecommerce sales data and represented t
  3) Which is the leading category contributing to sales and etc.
 
 To conclude, I have also added a slicer for prestenting information for every quarter for ease of access for further inspection and visualization.
+
